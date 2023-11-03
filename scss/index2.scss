@@ -1,0 +1,11 @@
+$bgColor: rgba(20, 125, 205, 0.451);
+
+body {
+  background: $bgColor;
+  height: 100vh;
+}
+
+button,
+p {
+  font-size: 20px;
+}

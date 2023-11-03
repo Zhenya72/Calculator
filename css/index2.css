@@ -1,0 +1,9 @@
+body {
+  background: rgba(20, 125, 205, 0.451);
+  height: 100vh;
+}
+
+button,
+p {
+  font-size: 20px;
+}
